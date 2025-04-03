@@ -1,0 +1,5 @@
+langchain
+google-generativeai
+github3.py
+gitpython
+python-dotenv
